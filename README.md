@@ -2,14 +2,14 @@
 
 1. [Install Apache](setup/apache.md)
 
-2. [Install PHP]()
+2. Install PHP
 
-3. [Install Java]()
+3. [Install Java](setup/java.md)
 
-4. [Install Tomcat]()
+4. [Install Tomcat](setup/tomcat.md)
 
-5. [Install GeoServer]()
+5. [Install GeoServer](setup/geoserver.md)
 
-6. [Install PostgreSQL]()
+6. [Install PostgreSQL](setup/postgresql.md)
 
-7. [Install PostGIS]()
+7. [Install PostGIS](setup/postgis.md)
