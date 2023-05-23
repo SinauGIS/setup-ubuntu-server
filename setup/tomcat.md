@@ -8,7 +8,7 @@
 
 3. Masuk ke direktori tmp kemudian download tomcat 9 dengan command   
 `cd /tmp`   
-`wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.75/ bin/apache-tomcat-9.0.75.zip`   
+`wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.75/bin/apache-tomcat-9.0.75.zip`   
 
 4. Setelah selesai download tomcat 9 lakukan unzip dengan command   
 `unzip apache-tomcat-9.0.75.zip`   
