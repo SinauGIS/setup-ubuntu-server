@@ -46,3 +46,6 @@ menjadi
 `listen_addresses = '*'`   
 
 7. Simpan dengan menggunakan <b>Ctrl + X</b>
+
+8. jalankan perintah   
+`sudo systemctl restart postgresql`   
