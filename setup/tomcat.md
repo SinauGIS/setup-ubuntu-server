@@ -63,4 +63,7 @@
 13. Untuk melihat status service tomcat gunakan command   
 `sudo systemctl status tomcat`   
 
-14. Jika status service tomcat sudah aktif, cobalah akses melalui browser client untuk mengakses tomcat dengan ip/domain server pada port 8080
+14. Untuk membuat service tomcat autorun gunakan command   
+`sudo systemctl enable tomcat`   
+
+15. Jika status service tomcat sudah aktif, cobalah akses melalui browser client untuk mengakses tomcat dengan ip/domain server pada port 8080
